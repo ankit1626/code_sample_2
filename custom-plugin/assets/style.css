@@ -1,0 +1,33 @@
+.success-message {
+    color: green;
+    margin-top: 10px;
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+#send_email_button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+#wdm_machine_type {
+    padding: 12px 10px;
+    border-radius: 10px;
+}
+
+#wdm_return_partner {
+    padding: 12px 10px;
+    border-radius: 10px;
+}
